@@ -17,8 +17,8 @@ class User {
     
     }
 
-    //se l'istanza "corrente" a cui acedo con this è più grande scrivo che è più grande, altrimenti scrivo che è più piccola//
-    //spiego l'if statement: funzione ageComparison scritta senza function perché si trova all'interno della class. se l'età dell'oggentto corrente è maggiore dell'età del secondo oggetto//
+    //se l'istanza "corrente" a cui accedo con this è più grande scrivo che è più grande, altrimenti scrivo che è più piccola//
+    //spiego l'if statement: funzione ageComparison scritta senza function perché si trova all'interno della class. se l'età dell'oggetto corrente è maggiore dell'età del secondo oggetto//
     //ritorna la scritta nome dell'oggetto corrente is older than nome del secondo oggetto che sto comparando//
     //altrimenti scrivi che è più giovane, andando a prendere i valori allo stesso modo//
     //posso comparare solo due oggetti alla volta, uno è quello corrente.//
